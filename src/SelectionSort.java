@@ -1,5 +1,5 @@
 import java.util.*;
-//Ellis Holman
+//Ellis H
 public class SelectionSort {
     public static void main(String[] args) {
         int[] numbers = new int[30];
